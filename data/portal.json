@@ -1,6 +1,6 @@
 {
   "deals": {
-    "fetched_at_jst": "2026-11-02 03:37",
+    "fetched_at_jst": "2026-11-02 03:43",
     "items": [
       {
         "detail": "オンライン先行セールでは対象 約5万点に使える15%OFFクーポン（一部対象外あり）。店頭では冬物衣料・生活雑貨・家電の「半額祭り」などが予定されています。個別商品の価格は公式発表では確認できないため、ここには掲載していません。",
@@ -24,7 +24,7 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-02 03:37",
+    "fetched_at_jst": "2026-11-02 03:43",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
@@ -62,7 +62,7 @@
     ]
   },
   "outings": {
-    "fetched_at_jst": "2026-11-02 03:37",
+    "fetched_at_jst": "2026-11-02 03:43",
     "items": [
       {
         "date_label": "11月7日（土）・8日（日）",
@@ -100,7 +100,7 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-02 03:37",
+    "fetched_at_jst": "2026-11-02 03:43",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
