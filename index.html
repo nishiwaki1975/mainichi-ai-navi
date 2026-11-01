@@ -113,20 +113,22 @@ function newsHtml(n){
 function todayJST(){ return new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date()); }
 function notExpired(i){ return !i.end_date || i.end_date >= todayJST(); }
 function outingsHtml(o){
-  const items = o.items.filter(notExpired).map(i=>`<article class="item"><h3>${esc(i.title)}</h3>
+  const list = o.items.filter(notExpired);
+  const items = list.map(i=>`<article class="item"><h3>${esc(i.title)}</h3>
     <p>📅 ${esc(i.date_label)} ${esc(i.time_label)}<br>📍 ${esc(i.place)}<br>💰 ${esc(i.fee_label)}</p>
     <p>${esc(i.note)}</p><p class="src"><a href="${esc(i.url)}" rel="noopener">公式ページを見る</a></p></article>`).join('');
   return `<section class="card" data-sec="outings"><h2>🎡 週末のお出かけ情報</h2>
     <div class="meta">対象地域：${esc(o.region)}／確認日時：${esc(o.fetched_at_jst)}（日本時間）</div>
-    ${staleBox(o.stale)}${items || '<p>現在ご紹介できる情報はありません。次回の更新をお待ちください。</p>'}<p class="src">${esc(o.note||'')}</p></section>`;
+    ${staleBox(o.stale)}${items || '<p>現在掲載中の情報はありません</p>'}${list.length ? `<p class="src">${esc(o.note||'')}</p>` : ''}</section>`;
 }
 function dealsHtml(d){
-  const items = d.items.filter(notExpired).map(i=>`<article class="item"><h3>${esc(i.title)}</h3>
+  const list = d.items.filter(notExpired);
+  const items = list.map(i=>`<article class="item"><h3>${esc(i.title)}</h3>
     <p>🏬 ${esc(i.store)}<br>📅 ${esc(i.period_label)}</p><p>${esc(i.detail)}</p>
     <p class="src"><a href="${esc(i.url)}" rel="noopener">出典（公式発表）を見る</a></p></article>`).join('');
   return `<section class="card" data-sec="deals"><h2>🛒 暮らしのお得情報</h2>
     <div class="meta">確認日時：${esc(d.fetched_at_jst)}（日本時間）</div>
-    ${staleBox(d.stale)}${items || '<p>現在ご紹介できる情報はありません。次回の更新をお待ちください。</p>'}<p class="src">${esc(d.note||'')}</p></section>`;
+    ${staleBox(d.stale)}${items || '<p>現在掲載中の情報はありません</p>'}${list.length ? `<p class="src">${esc(d.note||'')}</p>` : ''}</section>`;
 }
 let DATA=null;
 function render(tab){
