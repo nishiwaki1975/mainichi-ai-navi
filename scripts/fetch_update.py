@@ -135,11 +135,13 @@ def parse_weather(raw, today_date):
         if key is not None and pop_by_time[key] != "":
             slots.append({"label": label, "pop": int(pop_by_time[key])})
 
-    # 今日の気温 (地点予報): 値の最小・最大を使う
-    _, t_area = find_series(block, "44132", "temps")
+    # 今日の気温 (地点予報): timeDefines の日付が「今日」の値だけを使う。
+    # 発表時刻によっては翌日分の値が混ざることがあるため、配列全体の min/max は取らない。
+    t_def, t_area = find_series(block, "44132", "temps")
     temp_min = temp_max = None
     if t_area is not None:
-        vals = [int(v) for v in t_area["temps"] if v != ""]
+        vals = [int(v) for t, v in zip(t_def, t_area["temps"])
+                if t[:10] == today_iso and v != ""]
         if vals:
             temp_min, temp_max = min(vals), max(vals)
 
@@ -292,6 +294,12 @@ def check_links(portal, section):
         if not i.get("end_date") or i["end_date"] >= today
     ]
     total = len(portal[section]["items"])
+    if total == 0:
+        # 掲載期間の終了などで0件なのは正常な状態。取得失敗と区別する
+        portal[section]["fetched_at_jst"] = fmt(now_jst())
+        portal[section]["stale"] = False
+        portal[section]["note"] = "現在掲載中の情報はありません"
+        return True, f"{section}は掲載中の情報が0件です（正常）"
     ok = 0
     for item in portal[section]["items"]:
         try:
