@@ -1,0 +1,59 @@
+# まいにちAIナビ: データ自動更新 (下書き / 未有効化)
+#
+# このファイルは移行用エクスポートに含まれる「下書き」です。
+# 新規リポジトリに配置し、GitHub Pages を有効化した時点で初めて動作します。
+# 現時点ではどのリポジトリにも配置されていません。
+#
+# スケジュールは timezone: "Asia/Tokyo" を指定し、日本時間で定義しています。
+#   07:00 → 天気+ニュース+お出かけ確認
+#   08:00 → お得情報の出典確認
+#   12:00 → 天気+ニュース
+#   18:00 → 天気+ニュース
+# スクリプト側 (fetch_update.py --auto) が日本時間の時から対象を判定します。
+# 注意: GitHub のスケジュール実行は混雑時に数分〜十数分遅れることがあります。
+name: update-data
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+      timezone: "Asia/Tokyo"
+    - cron: "0 8 * * *"
+      timezone: "Asia/Tokyo"
+    - cron: "0 12 * * *"
+      timezone: "Asia/Tokyo"
+    - cron: "0 18 * * *"
+      timezone: "Asia/Tokyo"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write # data/portal.json の更新コミットに必要な最小権限のみ
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch latest data
+        run: python3 scripts/fetch_update.py --section auto
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/portal.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "data: auto update $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M JST')"
+            git push
+          fi
