@@ -1,6 +1,6 @@
 {
   "deals": {
-    "fetched_at_jst": "2026-11-02 02:46",
+    "fetched_at_jst": "2026-11-02 03:34",
     "items": [
       {
         "detail": "オンライン先行セールでは対象 約5万点に使える15%OFFクーポン（一部対象外あり）。店頭では冬物衣料・生活雑貨・家電の「半額祭り」などが予定されています。個別商品の価格は公式発表では確認できないため、ここには掲載していません。",
@@ -24,7 +24,7 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-02 03:20",
+    "fetched_at_jst": "2026-11-02 03:34",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
@@ -62,7 +62,7 @@
     ]
   },
   "outings": {
-    "fetched_at_jst": "2026-11-02 02:46",
+    "fetched_at_jst": "2026-11-02 03:34",
     "items": [
       {
         "date_label": "11月7日（土）・8日（日）",
@@ -81,17 +81,17 @@
         "place": "新宿御苑（新宿区）",
         "time_label": "10:00〜16:00",
         "title": "GTFグリーンチャレンジデー2026 in 新宿御苑",
-        "url": "https://www.city.edogawa.tokyo.jp/event/261107gtfgcd.html",
+        "url": "https://gtfweb.com/gcd2026/",
         "end_date": "2026-11-08"
       },
       {
         "date_label": "11月7日（土）・8日（日）",
-        "fee_label": "料金は公式ページでご確認ください",
-        "note": "地域のお祭りイベントです。出店や催しものは公式ページで確認できます。",
+        "fee_label": "入場無料",
+        "note": "渋谷区最大規模の区民フェスティバル。代々木公園で開催されます。",
         "place": "代々木公園イベント広場周辺（渋谷区）",
-        "time_label": "時間は公式ページでご確認ください",
+        "time_label": "10:00〜16:00",
         "title": "第49回 渋谷区くみんの広場 ふるさと渋谷フェスティバル2026",
-        "url": "https://en.gurutto-tokyo.com/event/",
+        "url": "https://www.shibuya-fes.online/",
         "end_date": "2026-11-08"
       }
     ],
@@ -100,12 +100,12 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-02 03:20",
+    "fetched_at_jst": "2026-11-02 03:34",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
     "report_datetime": "2026-11-01 17:00",
-    "overview": "2日は、前線を伴った低気圧が西日本から東日本を通って日本の東へ進む見込みです。このため、曇りで昼過ぎから夕方は雨となるでしょう。",
+    "overview": "本州付近は高気圧に緩やかに覆われていますが、関東甲信地方は気圧の谷や湿った空気の影響を受けています。 東京地方は、曇りや晴れとなっています。 １日は、気圧の谷や湿った空気の影響を受ける見込みです。このため、曇りとなるでしょう。 ２日は、前線を伴った低気圧が西日本から東日本を通って日本の東へ進む見込みです。このため、曇りで昼過ぎから夕方は雨となるでしょう。伊豆諸島では、雨で雷を伴う所がある見込みです。",
     "today": {
       "date_label": "11月2日（月）",
       "weather_text": "くもり 昼過ぎ から 夕方 雨",
