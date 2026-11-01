@@ -4,7 +4,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>まいにちAIナビ | 天気・ニュース・お出かけ・お得情報</title>
-<meta name="description" content="天気、ニュース、お出かけ情報、お得情報を1か所で確認できる生活情報ポータル。気象庁とNHKの公式情報を自動で取り直して表示します。">
+<meta name="description" content="天気、ニュース、お出かけ情報、お得情報を1か所で確認できる生活情報ポータル。気象庁と政府広報オンラインの公式情報を、GitHub Actionsで定期的に取り直して表示します。">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="まいにちAIナビ">
+<meta property="og:title" content="まいにちAIナビ | 天気・ニュース・お出かけ・お得情報">
+<meta property="og:description" content="天気、ニュース、お出かけ情報、お得情報を1か所で確認できる生活情報ポータル。気象庁と政府広報オンラインの公式情報を、GitHub Actionsで定期的に取り直して表示します。">
+<meta property="og:url" content="https://nishiwaki1975.github.io/mainichi-ai-navi/">
+<meta property="og:image" content="https://nishiwaki1975.github.io/mainichi-ai-navi/ogp.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="まいにちAIナビ | 天気・ニュース・お出かけ・お得情報">
+<meta name="twitter:description" content="天気、ニュース、お出かけ情報、お得情報を1か所で確認できる生活情報ポータル。公式情報を定期的に取り直して表示します。">
+<meta name="twitter:image" content="https://nishiwaki1975.github.io/mainichi-ai-navi/ogp.png">
 <style>
   :root{--bg:#fff8ec;--card:#ffffff;--ink:#263238;--sub:#5b6b72;--line:#f0e2c8;--accent:#f59e0b;--accent2:#0284c7;--warn:#b91c1c;--warnbg:#fef2f2;--chip:#fef3c7}
   *{box-sizing:border-box}
@@ -69,15 +81,16 @@
 </footer>
 <script>
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const tv = v => (v === null || v === undefined || v === '') ? '―' : v;
 function staleBox(stale){ return stale ? '<div class="stale">⚠ 新しい情報を取得できなかったため、前回の情報を表示しています（古い情報です）。</div>' : ''; }
 function weatherHtml(w){
   const t = w.today, tm = w.tomorrow;
   const pops = (t.pops||[]).map(p=>`<span>${esc(p.label)} ${p.pop}%</span>`).join('');
-  const weekend = (w.weekend||[]).map(d=>`<article class="item"><h3>${esc(d.date_label)}：${esc(d.weather_text)}</h3><p>最高 ${d.temp_max}℃ ／ 最低 ${d.temp_min}℃、降水確率 最大${d.pop_max}%</p></article>`).join('');
+  const weekend = (w.weekend||[]).map(d=>`<article class="item"><h3>${esc(d.date_label)}：${esc(d.weather_text)}</h3><p>最高 ${tv(d.temp_max)}℃ ／ 最低 ${tv(d.temp_min)}℃、降水確率 最大${tv(d.pop_max)}%</p></article>`).join('');
   return `<section class="card" data-sec="weather"><h2>🌤 今日の天気（東京）</h2>
     <div class="meta">取得日時：${esc(w.fetched_at_jst)}（日本時間）／出典：<a href="${esc(w.source_url)}" rel="noopener">${esc(w.source_name)}</a>（発表 ${esc(w.report_datetime)}）※気象庁の公式データを加工して作成しています</div>
     ${staleBox(w.stale)}
-    <p class="big-temp"><b>${esc(t.date_label)}</b>　${esc(t.weather_text)}<br>最高 <b>${t.temp_max}℃</b> ／ 最低 <b>${t.temp_min}℃</b></p>
+    <p class="big-temp"><b>${esc(t.date_label)}</b>　${esc(t.weather_text)}<br>最高 <b>${tv(t.temp_max)}℃</b> ／ 最低 <b>${tv(t.temp_min)}℃</b></p>
     <div class="pops">${pops}</div>
     <div class="advice">
       <div>☂ 傘：${esc(t.umbrella)}</div>
@@ -85,7 +98,7 @@ function weatherHtml(w){
       <div>🧺 洗濯：${esc(t.laundry)}</div>
     </div>
     <article class="item"><h3>明日 ${esc(tm.date_label)}：${esc(tm.weather_text)}</h3>
-    <p>最高 ${tm.temp_max}℃ ／ 最低 ${tm.temp_min}℃、降水確率 最大${tm.pop_max}%　☂ ${esc(tm.umbrella)}　🧺 ${esc(tm.laundry)}</p></article>
+    <p>最高 ${tv(tm.temp_max)}℃ ／ 最低 ${tv(tm.temp_min)}℃、降水確率 最大${tv(tm.pop_max)}%　☂ ${esc(tm.umbrella)}　🧺 ${esc(tm.laundry)}</p></article>
     <h3 style="margin:14px 0 4px">週末の天気</h3>${weekend}
     <p>${esc(w.weekend_advice||'')}</p></section>`;
 }
