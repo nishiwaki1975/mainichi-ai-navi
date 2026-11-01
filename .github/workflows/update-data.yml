@@ -1,8 +1,6 @@
-# まいにちAIナビ: データ自動更新 (下書き / 未有効化)
+# まいにちAIナビ: データ自動更新 (運用中)
 #
-# このファイルは移行用エクスポートに含まれる「下書き」です。
-# 新規リポジトリに配置し、GitHub Pages を有効化した時点で初めて動作します。
-# 現時点ではどのリポジトリにも配置されていません。
+# リポジトリ nishiwaki1975/mainichi-ai-navi で稼働中のワークフローです。
 #
 # スケジュールは timezone: "Asia/Tokyo" を指定し、日本時間で定義しています。
 #   07:00 → 天気+ニュース+お出かけ確認
@@ -44,7 +42,11 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch latest data
-        run: python3 scripts/fetch_update.py --section auto
+        # 予定されていた cron 式を渡し、実行が遅延しても予定どおりのカテゴリを更新する。
+        # 手動実行では空になり、その場合は全カテゴリが対象になる。
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+        run: python3 scripts/fetch_update.py --section auto --schedule "$SCHEDULE"
 
       - name: Commit and push if changed
         run: |
