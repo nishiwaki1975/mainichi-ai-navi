@@ -1,0 +1,164 @@
+{
+  "deals": {
+    "fetched_at_jst": "2026-11-02 02:46",
+    "items": [
+      {
+        "detail": "オンライン先行セールでは対象 約5万点に使える15%OFFクーポン（一部対象外あり）。店頭では冬物衣料・生活雑貨・家電の「半額祭り」などが予定されています。個別商品の価格は公式発表では確認できないため、ここには掲載していません。",
+        "period_label": "イオンスタイルオンライン先行セール：2026年10月31日〜11月16日 9:59／店頭：11月20日〜11月30日（全国 約600店舗）",
+        "store": "イオン",
+        "title": "イオン「超！ブラックフライデーフェス」",
+        "url": "https://prtimes.jp/main/html/rd/p/000006158.000007505.html",
+        "end_date": "2026-11-30"
+      },
+      {
+        "detail": "まとめ買い企画などが予定されています。個別商品の割引価格は公式発表では確認できないため、ここには掲載していません。詳しくは出典リンクをご確認ください。",
+        "period_label": "2026年11月18日〜11月29日（全国のイトーヨーカドー・ヨーク各店舗）",
+        "store": "イトーヨーカドー",
+        "title": "イトーヨーカドー「ブラックフライデー」",
+        "url": "https://prtimes.jp/main/html/rd/p/000000123.000018950.html",
+        "end_date": "2026-11-29"
+      }
+    ],
+    "note": "出典ページの公開を2026年11月02日に確認（2/2件到達）",
+    "stale": false
+  },
+  "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
+  "news": {
+    "fetched_at_jst": "2026-11-02 02:46",
+    "stale": false,
+    "source_name": "政府広報オンライン",
+    "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
+    "items": [
+      {
+        "title": "全国殉職警察職員・警察協力殉難者慰霊祭-令和8年10月31日",
+        "summary": "令和８年１０月３１日、高市総理は、都内で開催された全国殉職警察職員・警察協力殉難者慰霊祭に参列しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202610/video-326974.html",
+        "published_jst": "2026-10-31 13:30"
+      },
+      {
+        "title": "地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告-令和8年10月30日",
+        "summary": "令和８年１０月３０日、高市総理は、総理大臣官邸で第８回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202610/video-326966.html",
+        "published_jst": "2026-10-30 16:00"
+      },
+      {
+        "title": "広島市長及び長崎市長による表敬-令和8年10月30日",
+        "summary": "令和８年１０月３０日、高市総理は、総理大臣官邸で広島市の松井一實（かずみ）市長及び長崎市の鈴木史朗市長による表敬を受けました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202610/video-326916.html",
+        "published_jst": "2026-10-30 08:40"
+      },
+      {
+        "title": "すぐできるコツがいっぱい!環境にもお財布にも優しい「食品ロス」の減らし方",
+        "summary": "日本の食品ロス量は年間461万トン。その約半分は家庭から出ているため、身近な工夫が第一歩になります。消費期限・賞味期限チェックや冷凍庫の活用など、環境と家計にプラスになる食品ロス削減のポイントを解説します。",
+        "url": "https://www.gov-online.go.jp/article/201303/entry-7526.html",
+        "published_jst": "2026-10-30 00:00"
+      },
+      {
+        "title": "フードバンク 寄附された未利用食品を無償提供",
+        "summary": "「フードバンク」とは、食品企業、農家などから寄付された未利用食品を、福祉施設やフードパントリー、こども食堂などに無償で届ける団体・取組のことです。",
+        "url": "https://www.gov-online.go.jp/article/202610/entry-11733.html",
+        "published_jst": "2026-10-30 00:00"
+      }
+    ]
+  },
+  "outings": {
+    "fetched_at_jst": "2026-11-02 02:46",
+    "items": [
+      {
+        "date_label": "11月7日（土）・8日（日）",
+        "fee_label": "全イベント無料",
+        "note": "アニメ・マンガの展示やステージが楽しめる、区の公式イベントです。",
+        "place": "杉並会館（杉並区）",
+        "time_label": "10:00〜18:00",
+        "title": "中野×杉並×豊島アニメ・マンガフェス2026 in 杉並",
+        "url": "https://www.city.suginami.tokyo.jp/s033/event/28657.html",
+        "end_date": "2026-11-08"
+      },
+      {
+        "date_label": "11月7日（土）・8日（日）",
+        "fee_label": "イベント参加は無料（新宿御苑の入園料は別途：大人500円、65歳以上・学生250円、中学生以下無料）",
+        "note": "申し込み不要。環境について楽しく学べる体験型イベントです。",
+        "place": "新宿御苑（新宿区）",
+        "time_label": "10:00〜16:00",
+        "title": "GTFグリーンチャレンジデー2026 in 新宿御苑",
+        "url": "https://www.city.edogawa.tokyo.jp/event/261107gtfgcd.html",
+        "end_date": "2026-11-08"
+      },
+      {
+        "date_label": "11月7日（土）・8日（日）",
+        "fee_label": "料金は公式ページでご確認ください",
+        "note": "地域のお祭りイベントです。出店や催しものは公式ページで確認できます。",
+        "place": "代々木公園イベント広場周辺（渋谷区）",
+        "time_label": "時間は公式ページでご確認ください",
+        "title": "第49回 渋谷区くみんの広場 ふるさと渋谷フェスティバル2026",
+        "url": "https://en.gurutto-tokyo.com/event/",
+        "end_date": "2026-11-08"
+      }
+    ],
+    "note": "出典ページの公開を2026年11月02日に確認（3/3件到達）",
+    "region": "東京都を中心とした首都圏",
+    "stale": false
+  },
+  "weather": {
+    "fetched_at_jst": "2026-11-02 02:46",
+    "stale": false,
+    "source_name": "気象庁",
+    "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
+    "report_datetime": "2026-11-01 17:00",
+    "overview": "2日は、前線を伴った低気圧が西日本から東日本を通って日本の東へ進む見込みです。このため、曇りで昼過ぎから夕方は雨となるでしょう。",
+    "today": {
+      "date_label": "11月2日（月）",
+      "weather_text": "くもり 昼過ぎ から 夕方 雨",
+      "temp_min": 13,
+      "temp_max": 21,
+      "pops": [
+        {
+          "label": "0〜6時",
+          "pop": 10
+        },
+        {
+          "label": "6〜12時",
+          "pop": 20
+        },
+        {
+          "label": "12〜18時",
+          "pop": 70
+        },
+        {
+          "label": "18〜24時",
+          "pop": 10
+        }
+      ],
+      "umbrella": "傘が必要です",
+      "laundry": "外干しはおすすめしません。部屋干しが安心です",
+      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
+    },
+    "tomorrow": {
+      "date_label": "11月3日（火）",
+      "weather_text": "晴れ 時々 くもり",
+      "temp_min": 13,
+      "temp_max": 20,
+      "pop_max": 20,
+      "umbrella": "傘はほぼ不要です",
+      "laundry": "洗濯物がよく乾きそうです",
+      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
+    },
+    "weekend": [
+      {
+        "date_label": "11月7日（土）",
+        "weather_text": "晴れ 時々 くもり",
+        "temp_min": 12,
+        "temp_max": 20,
+        "pop_max": 20
+      },
+      {
+        "date_label": "11月8日（日）",
+        "weather_text": "晴れ 時々 くもり",
+        "temp_min": 10,
+        "temp_max": 16,
+        "pop_max": 20
+      }
+    ],
+    "weekend_advice": "土曜は最高20℃の予報です。日曜の朝は10℃まで冷え込むので、暖かい服装で。"
+  }
+}
