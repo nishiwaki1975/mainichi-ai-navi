@@ -24,11 +24,23 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-02 02:46",
+    "fetched_at_jst": "2026-11-02 03:20",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
+      {
+        "title": "お子さんの進学・在学資金を支援!国の教育ローンをご利用ください",
+        "summary": "家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。",
+        "url": "https://www.gov-online.go.jp/article/201512/entry-8156.html",
+        "published_jst": "2026-11-02 00:00"
+      },
+      {
+        "title": "犯罪被害者月間 高市総理ビデオメッセージ-令和8年11月1日",
+        "summary": "令和８年１１月１日、 高市総理は、犯罪被害者週間に、ビデオメッセージを発出しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-326948.html",
+        "published_jst": "2026-11-01 09:30"
+      },
       {
         "title": "全国殉職警察職員・警察協力殉難者慰霊祭-令和8年10月31日",
         "summary": "令和８年１０月３１日、高市総理は、都内で開催された全国殉職警察職員・警察協力殉難者慰霊祭に参列しました。",
@@ -46,18 +58,6 @@
         "summary": "令和８年１０月３０日、高市総理は、総理大臣官邸で広島市の松井一實（かずみ）市長及び長崎市の鈴木史朗市長による表敬を受けました。",
         "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202610/video-326916.html",
         "published_jst": "2026-10-30 08:40"
-      },
-      {
-        "title": "すぐできるコツがいっぱい!環境にもお財布にも優しい「食品ロス」の減らし方",
-        "summary": "日本の食品ロス量は年間461万トン。その約半分は家庭から出ているため、身近な工夫が第一歩になります。消費期限・賞味期限チェックや冷凍庫の活用など、環境と家計にプラスになる食品ロス削減のポイントを解説します。",
-        "url": "https://www.gov-online.go.jp/article/201303/entry-7526.html",
-        "published_jst": "2026-10-30 00:00"
-      },
-      {
-        "title": "フードバンク 寄附された未利用食品を無償提供",
-        "summary": "「フードバンク」とは、食品企業、農家などから寄付された未利用食品を、福祉施設やフードパントリー、こども食堂などに無償で届ける団体・取組のことです。",
-        "url": "https://www.gov-online.go.jp/article/202610/entry-11733.html",
-        "published_jst": "2026-10-30 00:00"
       }
     ]
   },
@@ -100,7 +100,7 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-02 02:46",
+    "fetched_at_jst": "2026-11-02 03:20",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
