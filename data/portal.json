@@ -24,40 +24,40 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-02 19:25",
+    "fetched_at_jst": "2026-11-03 04:09",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
       {
-        "title": "お子さんの進学・在学資金を支援!国の教育ローンをご利用ください",
-        "summary": "家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。",
-        "url": "https://www.gov-online.go.jp/article/201512/entry-8156.html",
-        "published_jst": "2026-11-02 00:00"
+        "title": "防災士アンバサダー 野口絵子氏による表敬-令和8年11月2日",
+        "summary": "令和８年１１月２日、高市総理は、総理大臣官邸で防災士アンバサダー 野口絵子氏による表敬を受けました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327017.html",
+        "published_jst": "2026-11-02 17:20"
       },
       {
-        "title": "犯罪被害者月間 高市総理ビデオメッセージ-令和8年11月1日",
-        "summary": "令和８年１１月１日、 高市総理は、犯罪被害者週間に、ビデオメッセージを発出しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-326948.html",
-        "published_jst": "2026-11-01 09:30"
+        "title": "防災庁発足式-令和8年11月2日",
+        "summary": "令和８年１１月２日、高市総理は、防災庁の看板掛けを行い、その後、発足式に出席をし、訓示を行いました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327015.html",
+        "published_jst": "2026-11-02 16:30"
       },
       {
-        "title": "全国殉職警察職員・警察協力殉難者慰霊祭-令和8年10月31日",
-        "summary": "令和８年１０月３１日、高市総理は、都内で開催された全国殉職警察職員・警察協力殉難者慰霊祭に参列しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202610/video-326974.html",
-        "published_jst": "2026-10-31 13:30"
+        "title": "防災庁の大臣・副大臣・政務官の任命-令和8年11月2日",
+        "summary": "令和８年１１月２日、高市総理は、宮中における認証式の後、総理大臣官邸に戻り、辞令交付を行い、 その後、記念撮影を行いました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327022.html",
+        "published_jst": "2026-11-02 16:00"
       },
       {
-        "title": "地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告-令和8年10月30日",
-        "summary": "令和８年１０月３０日、高市総理は、総理大臣官邸で第８回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202610/video-326966.html",
-        "published_jst": "2026-10-30 16:00"
+        "title": "防災庁発足! みんなでつくる、災害に強い社会",
+        "summary": "11月2日、新たに「防災庁」が発足しました！ 南海トラフ地震や首都直下地震など、今後迫りくる国難級とも言われる大規模災害に備え、普段からの防災対策はもちろん、発災時の対応から復旧・復興まで、一貫して災害対応の司令塔となる",
+        "url": "https://www.gov-online.go.jp/article/202611/radio-3782.html",
+        "published_jst": "2026-11-02 11:00"
       },
       {
-        "title": "広島市長及び長崎市長による表敬-令和8年10月30日",
-        "summary": "令和８年１０月３０日、高市総理は、総理大臣官邸で広島市の松井一實（かずみ）市長及び長崎市の鈴木史朗市長による表敬を受けました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202610/video-326916.html",
-        "published_jst": "2026-10-30 08:40"
+        "title": "マナーマ対話 高市総理ビデオメッセージ-令和8年11月1日",
+        "summary": "令和８年１１月１日、高市総理は、マナーマ対話に、ビデオメッセージを発出しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327011.html",
+        "published_jst": "2026-11-02 10:00"
       }
     ]
   },
@@ -100,36 +100,48 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-02 19:25",
+    "fetched_at_jst": "2026-11-03 04:09",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
     "report_datetime": "2026-11-02 17:00",
     "overview": "房総半島付近には前線を伴った低気圧があって、東へ進んでいます。 東京地方は、雨となっています。 ２日は、前線を伴った低気圧が日本の東へ進む見込みです。このため、雨のち晴れとなるでしょう。伊豆諸島では、雨で雷を伴う所がある見込みです。 ３日は、高気圧に緩やかに覆われますが、気圧の谷や湿った空気の影響を受ける見込みです。このため、曇りで昼前まで時々晴れとなるでしょう。",
     "today": {
-      "date_label": "11月2日（月）",
-      "weather_text": "雨 夜 くもり 後 晴れ",
-      "temp_min": null,
-      "temp_max": null,
+      "date_label": "11月3日（火）",
+      "weather_text": "くもり 昼前 まで 時々 晴れ",
+      "temp_min": 11,
+      "temp_max": 19,
       "pops": [
         {
+          "label": "0〜6時",
+          "pop": 0
+        },
+        {
+          "label": "6〜12時",
+          "pop": 0
+        },
+        {
+          "label": "12〜18時",
+          "pop": 10
+        },
+        {
           "label": "18〜24時",
-          "pop": 20
+          "pop": 10
         }
       ],
       "umbrella": "傘はほぼ不要です",
-      "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
+      "laundry": "洗濯物がよく乾きそうです",
+      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
     },
     "tomorrow": {
-      "date_label": "11月3日（火）",
-      "weather_text": "くもり 昼前 まで 時々 晴れ",
-      "temp_min": null,
-      "temp_max": null,
-      "pop_max": null,
-      "umbrella": "傘はほぼ不要です",
-      "laundry": "洗濯物がよく乾きそうです",
-      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
+      "date_label": "11月4日（水）",
+      "weather_text": "くもり 後 一時 雨",
+      "temp_min": 12,
+      "temp_max": 18,
+      "pop_max": 60,
+      "umbrella": "傘が必要です",
+      "laundry": "外干しはおすすめしません。部屋干しが安心です",
+      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
     },
     "weekend": [
       {
