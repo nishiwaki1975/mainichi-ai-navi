@@ -24,7 +24,7 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-06 11:00",
+    "fetched_at_jst": "2026-11-06 19:14",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
@@ -100,22 +100,18 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-06 11:00",
+    "fetched_at_jst": "2026-11-06 19:14",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-06 11:00",
-    "overview": "日本付近は冬型の気圧配置となってきています。 東京地方は、晴れています。 ６日は、冬型の気圧配置となるため、おおむね晴れるでしょう。 ７日は、引き続き冬型の気圧配置となるため、おおむね晴れるでしょう。",
+    "report_datetime": "2026-11-06 17:00",
+    "overview": "西日本から東日本は冬型の気圧配置となっています。 東京地方は、おおむね晴れています。 ６日は、冬型の気圧配置となりますが、気圧の谷や湿った空気の影響を受ける見込みです。このため、晴れ時々曇りとなるでしょう。 ７日は、引き続き冬型の気圧配置となるため、晴れるでしょう。",
     "today": {
       "date_label": "11月6日（金）",
-      "weather_text": "晴れ",
-      "temp_min": 25,
-      "temp_max": 25,
+      "weather_text": "晴れ 夜のはじめ頃 くもり",
+      "temp_min": null,
+      "temp_max": null,
       "pops": [
-        {
-          "label": "12〜18時",
-          "pop": 0
-        },
         {
           "label": "18〜24時",
           "pop": 10
@@ -123,7 +119,7 @@
       ],
       "umbrella": "傘はほぼ不要です",
       "laundry": "洗濯物がよく乾きそうです",
-      "clothing": "長袖シャツ1枚で過ごしやすい気温です。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "tomorrow": {
       "date_label": "11月7日（土）",
