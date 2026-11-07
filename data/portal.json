@@ -24,45 +24,45 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-07 01:35",
+    "fetched_at_jst": "2026-11-07 10:40",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
       {
+        "title": "サイバーセキュリティに関する関係閣僚会議-令和8年11月6日",
+        "summary": "令和８年１１月６日、高市総理は、総理大臣官邸で第２回サイバーセキュリティに関する関係閣僚会議を開催しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327172.html",
+        "published_jst": "2026-11-06 17:15"
+      },
+      {
+        "title": "日本成長戦略会議-令和8年11月6日",
+        "summary": "令和８年１１月６日、高市総理は、総理大臣官邸で第９回日本成長戦略会議を開催しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327170.html",
+        "published_jst": "2026-11-06 16:00"
+      },
+      {
+        "title": "APECビジネス諮問委員会(ABAC)による提言書手交-令和8年11月6日",
+        "summary": "令和８年１１月６日、高市総理は、総理大臣官邸でＡＰＥＣ（アジア太平洋経済協力）ビジネス諮問委員会（ＡＢＡＣ）による提言書を受け取りました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327148.html",
+        "published_jst": "2026-11-06 15:00"
+      },
+      {
+        "title": "沖縄政策協議会-令和8年11月6日",
+        "summary": "令和８年１１月６日、高市総理は、総理大臣官邸で沖縄政策協議会に出席しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327126.html",
+        "published_jst": "2026-11-06 08:15"
+      },
+      {
         "title": "マクロン・フランス共和国大統領との電話会談等についての会見-令和8年11月5日",
         "summary": "令和８年１１月５日、高市総理は総理大臣官邸で、マクロン・フランス共和国大統領との電話会談等についての会見を行いました。",
         "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202610/video-327119.html",
         "published_jst": "2026-11-05 18:30"
-      },
-      {
-        "title": "会計検査院令和7年度決算検査報告手交-令和8年11月5日",
-        "summary": "令和８年１１月５日、高市総理は、総理大臣官邸で会計検査院の原田祐平院長から令和７年度決算検査報告を受け取りました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327089.html",
-        "published_jst": "2026-11-05 16:45"
-      },
-      {
-        "title": "危険運転致死傷罪の改正",
-        "summary": "テレビCM「危険運転致死傷罪の改正」についてご紹介しています。より厳正な対処を行うため、危険運転に該当する飲酒運転および高速度運転の基準などが見直されました。",
-        "url": "https://www.gov-online.go.jp/media/commercials/202611/video-327032.html",
-        "published_jst": "2026-11-05 10:00"
-      },
-      {
-        "title": "防災庁誕生",
-        "summary": "地震や豪雨など、今後想定される大規模災害に備え、2026年11月に発足した「防災庁」。",
-        "url": "https://www.gov-online.go.jp/article/202611/tv-6667.html",
-        "published_jst": "2026-11-05 10:00"
-      },
-      {
-        "title": "日本維新の会・サイバー危機への緊急提言申入れ-令和8年11月4日",
-        "summary": "令和８年１１月４日、木原内閣官房長官は、総理大臣官邸で日本維新の会・サイバー危機への緊急提言申入れを受けました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/chief_cabinet_secretary/202611/video-327078.html",
-        "published_jst": "2026-11-04 17:00"
       }
     ]
   },
   "outings": {
-    "fetched_at_jst": "2026-11-06 11:00",
+    "fetched_at_jst": "2026-11-07 10:40",
     "items": [
       {
         "date_label": "11月7日（土）・8日（日）",
@@ -95,27 +95,23 @@
         "end_date": "2026-11-08"
       }
     ],
-    "note": "出典ページの公開を2026年11月06日に確認（3/3件到達）",
+    "note": "出典ページの公開を2026年11月07日に確認（3/3件到達）",
     "region": "東京都を中心とした首都圏",
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-07 01:35",
+    "fetched_at_jst": "2026-11-07 10:40",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-06 17:00",
-    "overview": "西日本から東日本は冬型の気圧配置となっています。 東京地方は、おおむね晴れています。 ６日は、冬型の気圧配置となりますが、気圧の谷や湿った空気の影響を受ける見込みです。このため、晴れ時々曇りとなるでしょう。 ７日は、引き続き冬型の気圧配置となるため、晴れるでしょう。",
+    "report_datetime": "2026-11-07 05:00",
+    "overview": "日本付近は冬型の気圧配置となっています。 東京地方は、晴れとなっています。 ７日は、冬型の気圧配置となる見込みです。このため、晴れとなるでしょう。 ８日は、高気圧に緩やかに覆われますが、湿った空気の影響を受ける見込みです。このため、曇りで昼過ぎまで時々晴れとなるでしょう。",
     "today": {
       "date_label": "11月7日（土）",
       "weather_text": "晴れ",
-      "temp_min": 13,
+      "temp_min": 21,
       "temp_max": 21,
       "pops": [
-        {
-          "label": "0〜6時",
-          "pop": 0
-        },
         {
           "label": "6〜12時",
           "pop": 0
@@ -135,7 +131,7 @@
     },
     "tomorrow": {
       "date_label": "11月8日（日）",
-      "weather_text": "くもり 時々 晴れ",
+      "weather_text": "くもり 昼過ぎ まで 時々 晴れ",
       "temp_min": 9,
       "temp_max": 18,
       "pop_max": 20,
@@ -153,7 +149,7 @@
       },
       {
         "date_label": "11月8日（日）",
-        "weather_text": "くもり 時々 晴れ",
+        "weather_text": "くもり 昼過ぎ まで 時々 晴れ",
         "temp_min": 9,
         "temp_max": 18,
         "pop_max": 20
