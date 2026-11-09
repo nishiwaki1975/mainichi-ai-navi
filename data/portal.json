@@ -24,7 +24,7 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-09 10:28",
+    "fetched_at_jst": "2026-11-09 19:47",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
@@ -69,26 +69,18 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-09 10:28",
+    "fetched_at_jst": "2026-11-09 19:47",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-09 05:00",
-    "overview": "伊豆諸島付近が気圧の谷となっており、関東甲信地方は湿った空気の影響を受けています。 東京地方は、おおむね雨となっています。 ９日は、伊豆諸島付近で低気圧が発生し、日本の東に進む見込みです。このため、雨となるでしょう。伊豆諸島では、雨で雷を伴い激しく降る所がある見込みです。 １０日は、上空の気圧の谷や寒気、湿った空気の影響を受けますが、次第に高気圧に緩やかに覆われる見込みです。このため、雨のち曇りで、午後は次第に晴れるでしょう。",
+    "report_datetime": "2026-11-09 17:00",
+    "overview": "日本の東には低気圧があり、関東甲信地方は湿った空気の影響を受けています。 東京地方は、雨や曇りとなっています。 ９日は、日本の東の低気圧が東北東へ進む見込みです。このため、雨となるでしょう。 １０日は、上空の気圧の谷や寒気、湿った空気の影響を受けますが、次第に高気圧に緩やかに覆われる見込みです。このため、曇りのち晴れで、明け方まで雨となるでしょう。",
     "today": {
       "date_label": "11月9日（月）",
       "weather_text": "雨",
-      "temp_min": 10,
-      "temp_max": 13,
+      "temp_min": null,
+      "temp_max": null,
       "pops": [
-        {
-          "label": "6〜12時",
-          "pop": 80
-        },
-        {
-          "label": "12〜18時",
-          "pop": 60
-        },
         {
           "label": "18〜24時",
           "pop": 70
@@ -96,24 +88,24 @@
       ],
       "umbrella": "傘が必要です",
       "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "セーターや厚手の上着がおすすめです。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "tomorrow": {
       "date_label": "11月10日（火）",
-      "weather_text": "雨 昼前 から くもり 後 晴れ",
-      "temp_min": 8,
-      "temp_max": 15,
-      "pop_max": 40,
-      "umbrella": "折りたたみ傘があると安心です",
+      "weather_text": "くもり 後 晴れ 明け方 まで 雨",
+      "temp_min": null,
+      "temp_max": null,
+      "pop_max": null,
+      "umbrella": "傘はほぼ不要です",
       "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "セーターや厚手の上着がおすすめです。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "weekend": [
       {
         "date_label": "11月14日（土）",
         "weather_text": "晴れ 時々 くもり",
         "temp_min": 10,
-        "temp_max": 20,
+        "temp_max": 21,
         "pop_max": 20
       },
       {
@@ -124,6 +116,6 @@
         "pop_max": 50
       }
     ],
-    "weekend_advice": "土曜は最高20℃の予報です。日曜の朝は12℃まで冷え込むので、暖かい服装で。"
+    "weekend_advice": "土曜は最高21℃の予報です。日曜の朝は12℃まで冷え込むので、暖かい服装で。"
   }
 }
