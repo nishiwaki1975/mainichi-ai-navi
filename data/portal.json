@@ -24,11 +24,23 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-09 19:47",
+    "fetched_at_jst": "2026-11-10 04:28",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
+      {
+        "title": "全国高校生政策甲子園最優秀チームによる表敬-令和8年11月9日",
+        "summary": "令和８年月１１月９日、高市総理は、総理大臣官邸で第４回全国高校生政策甲子園最優秀チームによる表敬を受けました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327197.html",
+        "published_jst": "2026-11-09 11:30"
+      },
+      {
+        "title": "みんなで支えよう。体罰などによらない子育て",
+        "summary": "子育てをしていると、悩んだり、イライラしたりしてしまうこともあるのではないでしょうか。そんなとき、つい声を荒げたり、手をあげそうになったり",
+        "url": "https://www.gov-online.go.jp/article/202611/radio-3830.html",
+        "published_jst": "2026-11-09 11:00"
+      },
       {
         "title": "全拉致被害者の即時一括帰国を求める国民大集会-令和8年11月8日",
         "summary": "令和８年１１月８日、高市総理は、都内で開催された全拉致被害者の即時一括帰国を求める国民大集会に出席しました。",
@@ -46,18 +58,6 @@
         "summary": "令和８年１１月６日、高市総理は、総理大臣官邸で第２回サイバーセキュリティに関する関係閣僚会議を開催しました。",
         "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327172.html",
         "published_jst": "2026-11-06 17:15"
-      },
-      {
-        "title": "日本成長戦略会議-令和8年11月6日",
-        "summary": "令和８年１１月６日、高市総理は、総理大臣官邸で第９回日本成長戦略会議を開催しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327170.html",
-        "published_jst": "2026-11-06 16:00"
-      },
-      {
-        "title": "APECビジネス諮問委員会(ABAC)による提言書手交-令和8年11月6日",
-        "summary": "令和８年１１月６日、高市総理は、総理大臣官邸でＡＰＥＣ（アジア太平洋経済協力）ビジネス諮問委員会（ＡＢＡＣ）による提言書を受け取りました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327148.html",
-        "published_jst": "2026-11-06 15:00"
       }
     ]
   },
@@ -69,36 +69,48 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-09 19:47",
+    "fetched_at_jst": "2026-11-10 04:28",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-09 17:00",
+    "report_datetime": "2026-11-09 21:00",
     "overview": "日本の東には低気圧があり、関東甲信地方は湿った空気の影響を受けています。 東京地方は、雨や曇りとなっています。 ９日は、日本の東の低気圧が東北東へ進む見込みです。このため、雨となるでしょう。 １０日は、上空の気圧の谷や寒気、湿った空気の影響を受けますが、次第に高気圧に緩やかに覆われる見込みです。このため、曇りのち晴れで、明け方まで雨となるでしょう。",
     "today": {
-      "date_label": "11月9日（月）",
-      "weather_text": "雨",
-      "temp_min": null,
-      "temp_max": null,
+      "date_label": "11月10日（火）",
+      "weather_text": "くもり 後 晴れ 明け方 まで 雨",
+      "temp_min": 10,
+      "temp_max": 13,
       "pops": [
         {
+          "label": "0〜6時",
+          "pop": 50
+        },
+        {
+          "label": "6〜12時",
+          "pop": 30
+        },
+        {
+          "label": "12〜18時",
+          "pop": 10
+        },
+        {
           "label": "18〜24時",
-          "pop": 70
+          "pop": 0
         }
       ],
       "umbrella": "傘が必要です",
       "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
+      "clothing": "セーターや厚手の上着がおすすめです。"
     },
     "tomorrow": {
-      "date_label": "11月10日（火）",
-      "weather_text": "くもり 後 晴れ 明け方 まで 雨",
-      "temp_min": null,
-      "temp_max": null,
-      "pop_max": null,
+      "date_label": "11月11日（水）",
+      "weather_text": "晴れ",
+      "temp_min": 7,
+      "temp_max": 17,
+      "pop_max": 10,
       "umbrella": "傘はほぼ不要です",
-      "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
+      "laundry": "洗濯物がよく乾きそうです",
+      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
     },
     "weekend": [
       {
