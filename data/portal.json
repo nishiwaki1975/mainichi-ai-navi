@@ -24,67 +24,63 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-11 01:46",
+    "fetched_at_jst": "2026-11-11 10:43",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
       {
+        "title": "第74回民間放送全国大会 高市総理ビデオメッセージ-令和8年11月10日",
+        "summary": "令和８年１１月１０日、高市総理は、第７４回民間放送全国大会 高市総理ビデオメッセージを発出しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327230.html",
+        "published_jst": "2026-11-10 18:00"
+      },
+      {
+        "title": "韓日協力委員会一行による表敬-令和8年11月10日",
+        "summary": "令和８年月１１月１０日、高市総理は、総理大臣官邸で韓日協力委員会一行による表敬を受けました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327247.html",
+        "published_jst": "2026-11-10 16:10"
+      },
+      {
+        "title": "日・ベトナム首脳会談(2)-令和8年11月9日",
+        "summary": "令和８年１１月９日、高市総理は、迎賓館赤坂離宮でベトナム社会主義共和国のトー・ラム共産党中央委員会書記長兼国家主席と首脳会談を行いました。（２）",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327219.html",
+        "published_jst": "2026-11-09 19:00"
+      },
+      {
+        "title": "日・ベトナム首脳会談(1)-令和8年11月9日",
+        "summary": "令和８年１１月９日、高市総理は、迎賓館赤坂離宮でベトナム社会主義共和国のトー・ラム共産党中央委員会書記長兼国家主席と首脳会談を行いました。（１）",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327217.html",
+        "published_jst": "2026-11-09 18:00"
+      },
+      {
         "title": "全国高校生政策甲子園最優秀チームによる表敬-令和8年11月9日",
         "summary": "令和８年月１１月９日、高市総理は、総理大臣官邸で第４回全国高校生政策甲子園最優秀チームによる表敬を受けました。",
         "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327197.html",
         "published_jst": "2026-11-09 11:30"
-      },
-      {
-        "title": "みんなで支えよう。体罰などによらない子育て",
-        "summary": "子育てをしていると、悩んだり、イライラしたりしてしまうこともあるのではないでしょうか。そんなとき、つい声を荒げたり、手をあげそうになったり",
-        "url": "https://www.gov-online.go.jp/article/202611/radio-3830.html",
-        "published_jst": "2026-11-09 11:00"
-      },
-      {
-        "title": "全拉致被害者の即時一括帰国を求める国民大集会-令和8年11月8日",
-        "summary": "令和８年１１月８日、高市総理は、都内で開催された全拉致被害者の即時一括帰国を求める国民大集会に出席しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327187.html",
-        "published_jst": "2026-11-08 14:00"
-      },
-      {
-        "title": "原子力総合防災訓練-令和8年11月7日",
-        "summary": "令和８年１１月７日、高市総理は、総理大臣官邸で令和８年度原子力総合防災訓練に参加しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327182.html",
-        "published_jst": "2026-11-07 11:00"
-      },
-      {
-        "title": "サイバーセキュリティに関する関係閣僚会議-令和8年11月6日",
-        "summary": "令和８年１１月６日、高市総理は、総理大臣官邸で第２回サイバーセキュリティに関する関係閣僚会議を開催しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327172.html",
-        "published_jst": "2026-11-06 17:15"
       }
     ]
   },
   "outings": {
-    "fetched_at_jst": "2026-11-10 12:58",
+    "fetched_at_jst": "2026-11-11 10:43",
     "items": [],
     "note": "現在掲載中の情報はありません",
     "region": "東京都を中心とした首都圏",
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-11 01:46",
+    "fetched_at_jst": "2026-11-11 10:43",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-10 23:00",
-    "overview": "関東甲信地方は上空の気圧の谷や湿った空気の影響を受けています。 東京地方は、曇りとなっています。 １０日は、上空の気圧の谷や湿った空気の影響を受ける見込みです。このため、曇りとなるでしょう。 １１日は、高気圧に覆われる見込みです。このため、晴れるでしょう。",
+    "report_datetime": "2026-11-11 05:00",
+    "overview": "関東甲信地方は、高気圧に緩やかに覆われていますが、湿った空気の影響を受けている所があります。 東京地方は、晴れています。 １１日は、高気圧に覆われる見込みです。このため、晴れるでしょう。 １２日は、引き続き高気圧に覆われる見込みです。このため、晴れるでしょう。",
     "today": {
       "date_label": "11月11日（水）",
       "weather_text": "晴れ",
-      "temp_min": 7,
+      "temp_min": 15,
       "temp_max": 15,
       "pops": [
-        {
-          "label": "0〜6時",
-          "pop": 0
-        },
         {
           "label": "6〜12時",
           "pop": 0
