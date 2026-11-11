@@ -24,7 +24,7 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-11 10:43",
+    "fetched_at_jst": "2026-11-11 19:09",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
@@ -69,26 +69,18 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-11 10:43",
+    "fetched_at_jst": "2026-11-11 19:09",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-11 05:00",
-    "overview": "関東甲信地方は、高気圧に緩やかに覆われていますが、湿った空気の影響を受けている所があります。 東京地方は、晴れています。 １１日は、高気圧に覆われる見込みです。このため、晴れるでしょう。 １２日は、引き続き高気圧に覆われる見込みです。このため、晴れるでしょう。",
+    "report_datetime": "2026-11-11 17:00",
+    "overview": "関東甲信地方は、高気圧に緩やかに覆われていますが、湿った空気の影響を受けている所があります。 東京地方は、晴れています。 １１日は、高気圧に覆われる見込みです。このため、晴れるでしょう。 １２日は、引き続き高気圧に覆われますが、湿った空気の影響を受ける見込みです。このため、晴れで明け方まで曇りとなるでしょう。",
     "today": {
       "date_label": "11月11日（水）",
       "weather_text": "晴れ",
-      "temp_min": 15,
-      "temp_max": 15,
+      "temp_min": null,
+      "temp_max": null,
       "pops": [
-        {
-          "label": "6〜12時",
-          "pop": 0
-        },
-        {
-          "label": "12〜18時",
-          "pop": 0
-        },
         {
           "label": "18〜24時",
           "pop": 0
@@ -96,22 +88,22 @@
       ],
       "umbrella": "傘はほぼ不要です",
       "laundry": "洗濯物がよく乾きそうです",
-      "clothing": "セーターや厚手の上着がおすすめです。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "tomorrow": {
       "date_label": "11月12日（木）",
-      "weather_text": "晴れ",
-      "temp_min": 8,
-      "temp_max": 18,
-      "pop_max": 10,
+      "weather_text": "晴れ 明け方 まで くもり",
+      "temp_min": null,
+      "temp_max": null,
+      "pop_max": null,
       "umbrella": "傘はほぼ不要です",
       "laundry": "洗濯物がよく乾きそうです",
-      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "weekend": [
       {
         "date_label": "11月14日（土）",
-        "weather_text": "晴れ 時々 くもり",
+        "weather_text": "晴れ 後 くもり",
         "temp_min": 9,
         "temp_max": 21,
         "pop_max": 20
@@ -120,7 +112,7 @@
         "date_label": "11月15日（日）",
         "weather_text": "くもり 一時 雨",
         "temp_min": 12,
-        "temp_max": 19,
+        "temp_max": 18,
         "pop_max": 50
       }
     ],
