@@ -24,71 +24,63 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-13 02:20",
+    "fetched_at_jst": "2026-11-13 11:27",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
       {
-        "title": "国と東京都の協議会-令和8年11月11日",
-        "summary": "令和８年１１月１１日、木原内閣官房長官は、総理大臣官邸で第３回国と東京都の協議会に出席しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/chief_cabinet_secretary/202611/video-327291.html",
-        "published_jst": "2026-11-11 18:05"
+        "title": "日本経済団体連合会による「AZEC2.0」構想の具体化に向けた提言手交-令和8年11月12日",
+        "summary": "令和８年１１月１２日、高市総理は、総理大臣官邸で日本経済団体連合会による「ＡＺＥＣ２．０」構想の具体化に向けた提言を受け取りました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327331.html",
+        "published_jst": "2026-11-12 15:05"
       },
       {
-        "title": "経済財政諮問会議-令和8年11月11日",
-        "summary": "令和８年１１月１１日、高市総理は、総理大臣官邸で令和８年第１６回経済財政諮問会議を開催しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327289.html",
-        "published_jst": "2026-11-11 17:20"
+        "title": "自由民主党・AZEC議員連盟による提言手交-令和8年11月12日",
+        "summary": "令和８年１１月１２日、高市総理は、総理大臣官邸で自由民主党・ＡＺＥＣ議員連盟による提言を受け取りました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327325.html",
+        "published_jst": "2026-11-12 14:50"
       },
       {
-        "title": "町村議会議長全国大会-令和8年11月11日",
-        "summary": "令和８年１１月１１日、高市総理は、都内で開催された第７０回町村議会議長全国大会に出席しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327275.html",
-        "published_jst": "2026-11-11 14:15"
+        "title": "フィジカルAI関連企業との意見交換会-令和8年11月12日",
+        "summary": "令和８年１１月１２日、高市総理は、総理大臣官邸でフィジカルＡＩ関連企業との意見交換会を行いました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327313.html",
+        "published_jst": "2026-11-12 11:30"
       },
       {
-        "title": "第74回民間放送全国大会 高市総理ビデオメッセージ-令和8年11月10日",
-        "summary": "令和８年１１月１０日、高市総理は、第７４回民間放送全国大会 高市総理ビデオメッセージを発出しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327230.html",
-        "published_jst": "2026-11-10 18:00"
+        "title": "最新の被災者支援",
+        "summary": "もし明日、突然被災者になったら、私たちはどのような支援を受けられるのでしょうか。過去の被災地で行われたアンケートでは、「トイレ」「温かい食事」「寝床」などが大きな不安として挙げられています。",
+        "url": "https://www.gov-online.go.jp/article/202611/tv-6675.html",
+        "published_jst": "2026-11-12 10:00"
       },
       {
-        "title": "韓日協力委員会一行による表敬-令和8年11月10日",
-        "summary": "令和８年月１１月１０日、高市総理は、総理大臣官邸で韓日協力委員会一行による表敬を受けました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327247.html",
-        "published_jst": "2026-11-10 16:10"
+        "title": "偽・誤情報の可能性、まさかで疑え。",
+        "summary": "偽・誤情報とは？ネットを使っている時などに目にすることがある「人をだます目的で作られたウソや、勘違いで広まった間違い情報」のこと。",
+        "url": "https://www.gov-online.go.jp/tokusyu/ict-literacy/index.html",
+        "published_jst": "2026-11-12 09:30"
       }
     ]
   },
   "outings": {
-    "fetched_at_jst": "2026-11-12 11:44",
+    "fetched_at_jst": "2026-11-13 11:27",
     "items": [],
     "note": "現在掲載中の情報はありません",
     "region": "東京都を中心とした首都圏",
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-13 02:20",
+    "fetched_at_jst": "2026-11-13 11:27",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-12 17:00",
-    "overview": "本州付近は高気圧に覆われていますが、関東甲信地方は湿った空気の影響を受けている所があります。 東京地方は、晴れています。 １２日は、高気圧に覆われる見込みです。このため、晴れるでしょう。 １３日は、高気圧に緩やかに覆われますが、上空の寒気や気圧の谷の影響を受ける見込みです。このため、曇りで昼前から晴れるでしょう。伊豆諸島では、雨で雷を伴う所がある見込みです。",
+    "report_datetime": "2026-11-13 11:00",
+    "overview": "本州付近は高気圧に緩やかに覆われていますが、低気圧が紀伊半島沖を東へ進んでいます。 東京地方は、おおむね晴れとなっています。 １３日は、高気圧に緩やかに覆われますが、低気圧が夜には東海道沖に進む見込みです。このため、晴れるでしょう。伊豆諸島では、雨で雷を伴う所がある見込みです。 １４日は、引き続き高気圧に緩やかに覆われますが、低気圧が伊豆諸島付近から関東の東に進む見込みです。このため、晴れ時々曇りとなるでしょう。伊豆諸島では、雨で雷を伴う所がある見込みです。",
     "today": {
       "date_label": "11月13日（金）",
-      "weather_text": "くもり 昼前 から 晴れ",
-      "temp_min": 9,
+      "weather_text": "晴れ",
+      "temp_min": 20,
       "temp_max": 20,
       "pops": [
-        {
-          "label": "0〜6時",
-          "pop": 0
-        },
-        {
-          "label": "6〜12時",
-          "pop": 10
-        },
         {
           "label": "12〜18時",
           "pop": 0
@@ -104,28 +96,28 @@
     },
     "tomorrow": {
       "date_label": "11月14日（土）",
-      "weather_text": "晴れ 後 くもり",
-      "temp_min": 10,
-      "temp_max": 22,
-      "pop_max": 10,
+      "weather_text": "晴れ 時々 くもり",
+      "temp_min": null,
+      "temp_max": null,
+      "pop_max": null,
       "umbrella": "傘はほぼ不要です",
       "laundry": "洗濯物がよく乾きそうです",
-      "clothing": "長袖シャツ1枚で過ごしやすい気温です。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "weekend": [
       {
         "date_label": "11月14日（土）",
-        "weather_text": "晴れ 後 くもり",
-        "temp_min": 10,
-        "temp_max": 22,
-        "pop_max": 10
+        "weather_text": "晴れ 時々 くもり",
+        "temp_min": null,
+        "temp_max": null,
+        "pop_max": null
       },
       {
         "date_label": "11月15日（日）",
-        "weather_text": "くもり 一時 雨",
+        "weather_text": "くもり 時々 雨",
         "temp_min": 12,
-        "temp_max": 17,
-        "pop_max": 50
+        "temp_max": 16,
+        "pop_max": 80
       }
     ],
     "weekend_advice": "土曜は最高22℃の予報です。日曜の朝は12℃まで冷え込むので、暖かい服装で。"
