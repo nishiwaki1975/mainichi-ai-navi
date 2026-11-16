@@ -24,40 +24,40 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-16 19:30",
+    "fetched_at_jst": "2026-11-17 04:14",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
       {
-        "title": "日米海底鉱物資源イノベーション・プラットフォーム 高市総理ビデオメッセージ-令和8年11月13日",
-        "summary": "令和８年１１月１０日、高市総理は、第７４回民間放送全国大会 高市総理ビデオメッセージを発出しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327382.html",
-        "published_jst": "2026-11-13 19:00"
+        "title": "どこからが危険運転? 改正された法律と運転のルール",
+        "summary": "「危険運転致死傷罪」は、危険で悪質な運転で人を死傷させた場合に重く処罰するために設けられた法律で、本年（2026年）7月に改正されました。",
+        "url": "https://www.gov-online.go.jp/article/202611/radio-3833.html",
+        "published_jst": "2026-11-16 11:00"
       },
       {
-        "title": "日本経済団体連合会による「AZEC2.0」構想の具体化に向けた提言手交-令和8年11月12日",
-        "summary": "令和８年１１月１２日、高市総理は、総理大臣官邸で日本経済団体連合会による「ＡＺＥＣ２．０」構想の具体化に向けた提言を受け取りました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327331.html",
-        "published_jst": "2026-11-12 15:05"
+        "title": "ASEAN関連首脳会議出席等についての会見-令和8年11月16日",
+        "summary": "令和８年１１月１６日、高市総理は、総理大臣公邸でＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議出席等についての会見を行いました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327412.html",
+        "published_jst": "2026-11-16 10:40"
       },
       {
-        "title": "令和8年熊本地震非常災害復旧復興本部-令和8年11月13日",
-        "summary": "令和８年１１月１３日、高市総理は、総理大臣官邸で令和８年熊本地震非常災害復旧復興本部を開催しました",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327351.html",
-        "published_jst": "2026-11-12 15:05"
+        "title": "音声広報CD「明日への声」令和8年(2026年)11月発行",
+        "summary": "音声広報CD「明日への声」（2026年11月発行）です。今号では、①上手に医療機関にかかるための方法とは？、②決して他人ごとではありません。",
+        "url": "https://www.gov-online.go.jp/media/cd/202611/index.html",
+        "published_jst": "2026-11-16 09:30"
       },
       {
-        "title": "自由民主党・AZEC議員連盟による提言手交-令和8年11月12日",
-        "summary": "令和８年１１月１２日、高市総理は、総理大臣官邸で自由民主党・ＡＺＥＣ議員連盟による提言を受け取りました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327325.html",
-        "published_jst": "2026-11-12 14:50"
+        "title": "点字・大活字広報誌「ふれあいらしんばん」令和8年(2026年)11月発行",
+        "summary": "音声広報CD「明日への声」（2026年11月発行）です。今号では、①上手に医療機関にかかるための方法とは？、②決して他人ごとではありません。",
+        "url": "https://www.gov-online.go.jp/media/katsuji/202611/index.html",
+        "published_jst": "2026-11-16 09:30"
       },
       {
-        "title": "フィジカルAI関連企業との意見交換会-令和8年11月12日",
-        "summary": "令和８年１１月１２日、高市総理は、総理大臣官邸でフィジカルＡＩ関連企業との意見交換会を行いました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327313.html",
-        "published_jst": "2026-11-12 11:30"
+        "title": "音声広報CD「明日への声」トラックナンバー1 vol.112(令和8年(2026年)11月発行)",
+        "summary": "音声広報CD「明日への声」（2026年11月発行）です。今号では、①上手に医療機関にかかるための方法とは？、②決して他人ごとではありません。",
+        "url": "https://www.gov-online.go.jp/media/cd/202611/202611_01.html",
+        "published_jst": "2026-11-16 09:30"
       }
     ]
   },
@@ -69,36 +69,48 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-16 19:30",
+    "fetched_at_jst": "2026-11-17 04:14",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
     "report_datetime": "2026-11-16 17:00",
     "overview": "日本付近は西高東低の気圧配置となっており、湿った空気や寒気の影響を受けています。 東京地方は、おおむね曇りとなっています。 １６日は、西高東低の気圧配置は次第に緩みますが、気圧の谷の影響を受ける見込みです。このため、曇りとなるでしょう。 １７日は、気圧の谷や湿った空気の影響を受ける見込みです。このため、曇りで夕方から雨となるでしょう。伊豆諸島では、雨で雷を伴い激しく降る所がある見込みです。",
     "today": {
-      "date_label": "11月16日（月）",
-      "weather_text": "くもり",
-      "temp_min": null,
-      "temp_max": null,
-      "pops": [
-        {
-          "label": "18〜24時",
-          "pop": 10
-        }
-      ],
-      "umbrella": "傘はほぼ不要です",
-      "laundry": "洗濯物がよく乾きそうです",
-      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
-    },
-    "tomorrow": {
       "date_label": "11月17日（火）",
       "weather_text": "くもり 夕方 から 雨",
-      "temp_min": null,
-      "temp_max": null,
-      "pop_max": null,
-      "umbrella": "傘はほぼ不要です",
+      "temp_min": 11,
+      "temp_max": 13,
+      "pops": [
+        {
+          "label": "0〜6時",
+          "pop": 10
+        },
+        {
+          "label": "6〜12時",
+          "pop": 20
+        },
+        {
+          "label": "12〜18時",
+          "pop": 60
+        },
+        {
+          "label": "18〜24時",
+          "pop": 80
+        }
+      ],
+      "umbrella": "傘が必要です",
       "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
+      "clothing": "セーターや厚手の上着がおすすめです。"
+    },
+    "tomorrow": {
+      "date_label": "11月18日（水）",
+      "weather_text": "くもり 一時 雨",
+      "temp_min": 9,
+      "temp_max": 18,
+      "pop_max": 70,
+      "umbrella": "傘が必要です",
+      "laundry": "外干しはおすすめしません。部屋干しが安心です",
+      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
     },
     "weekend": [
       {
