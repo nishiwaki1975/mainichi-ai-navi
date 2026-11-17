@@ -24,40 +24,40 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-17 20:24",
+    "fetched_at_jst": "2026-11-18 03:08",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
       {
+        "title": "1歳未満のこどもを育てているかたの国民年金保険料が免除されます。手続きはオンラインが便利!",
+        "summary": "国民年金保険料の育児免除制度は、フリーランスや自営業などの国民年金第1号被保険者の子育てを支える新しい制度です。収入や休業の有無にかかわらず利用でき、免除された期間も保険料を納めたものとして将来の年金額に反映されます。",
+        "url": "https://www.gov-online.go.jp/article/202611/entry-11750.html",
+        "published_jst": "2026-11-18 00:00"
+      },
+      {
+        "title": "付加保険料 月400円で将来の年金額を増やせます",
+        "summary": "付加保険料は、本人の希望により、国民年金保険料に上乗せして納めることができる月額400円の保険料です。納めた月数×200円が、老齢基礎年金に加算されるため、将来受け取る年金額を増やすことができます。",
+        "url": "https://www.gov-online.go.jp/article/202611/entry-11752.html",
+        "published_jst": "2026-11-18 00:00"
+      },
+      {
+        "title": "injt_ma_350od",
+        "summary": "",
+        "url": "https://www.gov-online.go.jp/vertical/online/video-840.html",
+        "published_jst": "2026-11-17 06:21"
+      },
+      {
+        "title": "i22380 pub4 rnnt16",
+        "summary": "",
+        "url": "https://www.gov-online.go.jp/vertical/online/video-846.html",
+        "published_jst": "2026-11-17 00:00"
+      },
+      {
         "title": "どこからが危険運転? 改正された法律と運転のルール",
         "summary": "「危険運転致死傷罪」は、危険で悪質な運転で人を死傷させた場合に重く処罰するために設けられた法律で、本年（2026年）7月に改正されました。",
         "url": "https://www.gov-online.go.jp/article/202611/radio-3833.html",
         "published_jst": "2026-11-16 11:00"
-      },
-      {
-        "title": "ASEAN関連首脳会議出席等についての会見-令和8年11月16日",
-        "summary": "令和８年１１月１６日、高市総理は、総理大臣公邸でＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議出席等についての会見を行いました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327412.html",
-        "published_jst": "2026-11-16 10:40"
-      },
-      {
-        "title": "音声広報CD「明日への声」令和8年(2026年)11月発行",
-        "summary": "音声広報CD「明日への声」（2026年11月発行）です。今号では、①上手に医療機関にかかるための方法とは？、②決して他人ごとではありません。",
-        "url": "https://www.gov-online.go.jp/media/cd/202611/index.html",
-        "published_jst": "2026-11-16 09:30"
-      },
-      {
-        "title": "点字・大活字広報誌「ふれあいらしんばん」令和8年(2026年)11月発行",
-        "summary": "音声広報CD「明日への声」（2026年11月発行）です。今号では、①上手に医療機関にかかるための方法とは？、②決して他人ごとではありません。",
-        "url": "https://www.gov-online.go.jp/media/katsuji/202611/index.html",
-        "published_jst": "2026-11-16 09:30"
-      },
-      {
-        "title": "音声広報CD「明日への声」トラックナンバー1 vol.112(令和8年(2026年)11月発行)",
-        "summary": "音声広報CD「明日への声」（2026年11月発行）です。今号では、①上手に医療機関にかかるための方法とは？、②決して他人ごとではありません。",
-        "url": "https://www.gov-online.go.jp/media/cd/202611/202611_01.html",
-        "published_jst": "2026-11-16 09:30"
       }
     ]
   },
@@ -69,36 +69,48 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-17 20:24",
+    "fetched_at_jst": "2026-11-18 03:08",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
     "report_datetime": "2026-11-17 17:00",
     "overview": "関東甲信地方は、東海道沖の気圧の谷や湿った空気の影響を受けています。 東京地方は、雨となっています。 １７日は、気圧の谷や湿った空気の影響を受ける見込みです。このため、雨で夜遅くは雷を伴い激しく降る所があるでしょう。伊豆諸島では、雨で雷を伴い非常に激しく降る所がある見込みです。 １８日は、気圧の谷や湿った空気の影響を受けますが、次第に高気圧に緩やかに覆われる見込みです。このため、晴れ時々曇りで明け方まで雨となり、雷を伴う所があるでしょう。",
     "today": {
-      "date_label": "11月17日（火）",
-      "weather_text": "雨 所により 夜遅く 雷を伴い 激しく 降る",
-      "temp_min": null,
-      "temp_max": null,
+      "date_label": "11月18日（水）",
+      "weather_text": "晴れ 時々 くもり 明け方 まで 雨 所により 雷 を伴う",
+      "temp_min": 9,
+      "temp_max": 21,
       "pops": [
         {
+          "label": "0〜6時",
+          "pop": 70
+        },
+        {
+          "label": "6〜12時",
+          "pop": 10
+        },
+        {
+          "label": "12〜18時",
+          "pop": 10
+        },
+        {
           "label": "18〜24時",
-          "pop": 100
+          "pop": 10
         }
       ],
       "umbrella": "傘が必要です",
       "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
+      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
     },
     "tomorrow": {
-      "date_label": "11月18日（水）",
-      "weather_text": "晴れ 時々 くもり 明け方 まで 雨 所により 雷 を伴う",
-      "temp_min": null,
-      "temp_max": null,
-      "pop_max": null,
+      "date_label": "11月19日（木）",
+      "weather_text": "晴れ",
+      "temp_min": 8,
+      "temp_max": 19,
+      "pop_max": 10,
       "umbrella": "傘はほぼ不要です",
-      "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
+      "laundry": "洗濯物がよく乾きそうです",
+      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
     },
     "weekend": [
       {
