@@ -24,7 +24,7 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-19 02:46",
+    "fetched_at_jst": "2026-11-19 11:56",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
@@ -42,16 +42,16 @@
         "published_jst": "2026-11-18 00:00"
       },
       {
-        "title": "injt_ma_350od",
-        "summary": "",
-        "url": "https://www.gov-online.go.jp/vertical/online/video-840.html",
-        "published_jst": "2026-11-17 06:21"
+        "title": "CP部品 防犯性能試験に合格した建物部品",
+        "summary": "CP部品とは、侵入までに5分以上の時間を要するなど、一定の防犯性能があると評価された「防犯建物部品」のことです。",
+        "url": "https://www.gov-online.go.jp/article/202611/entry-11776.html",
+        "published_jst": "2026-11-18 00:00"
       },
       {
-        "title": "i22380 pub4 rnnt16",
-        "summary": "",
-        "url": "https://www.gov-online.go.jp/vertical/online/video-846.html",
-        "published_jst": "2026-11-17 00:00"
+        "title": "全国地域安全運動/安全安心なまちづくりの日 地域の防犯力を高めよう",
+        "summary": "犯罪の起きにくい安全安心なまちづくりには、「家庭での防犯対策」と「地域のつながり・見守り」が効果的です。",
+        "url": "https://www.gov-online.go.jp/article/201410/entry-9366.html",
+        "published_jst": "2026-11-18 00:00"
       },
       {
         "title": "どこからが危険運転? 改正された法律と運転のルール",
@@ -62,33 +62,25 @@
     ]
   },
   "outings": {
-    "fetched_at_jst": "2026-11-18 12:21",
+    "fetched_at_jst": "2026-11-19 11:56",
     "items": [],
     "note": "現在掲載中の情報はありません",
     "region": "東京都を中心とした首都圏",
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-19 02:46",
+    "fetched_at_jst": "2026-11-19 11:56",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-18 17:00",
-    "overview": "関東甲信地方は、西高東低の気圧配置となっています。 東京地方は、おおむね晴れています。 １８日は、西高東低の気圧配置となりますが、気圧の谷の影響を受ける見込みです。このため、晴れ時々曇りとなるでしょう。伊豆諸島では、雨で雷を伴う所がある見込みです。 １９日は、次第に冬型の気圧配置となりますが、気圧の谷や湿った空気の影響を受ける見込みです。このため、晴れるでしょう。伊豆諸島では、雨や雷雨となる所がある見込みです。",
+    "report_datetime": "2026-11-19 11:00",
+    "overview": "関東甲信地方は、冬型の気圧配置となっています。 東京地方は、晴れています。 １９日は、冬型の気圧配置となる見込みです。このため、晴れるでしょう。 ２０日は、引き続き、冬型の気圧配置となりますが、気圧の谷や湿った空気の影響を受ける見込みです。このため、晴れるでしょう。伊豆諸島では、雨で雷を伴う所がある見込みです。",
     "today": {
       "date_label": "11月19日（木）",
       "weather_text": "晴れ",
-      "temp_min": 11,
-      "temp_max": 20,
+      "temp_min": 21,
+      "temp_max": 21,
       "pops": [
-        {
-          "label": "0〜6時",
-          "pop": 0
-        },
-        {
-          "label": "6〜12時",
-          "pop": 0
-        },
         {
           "label": "12〜18時",
           "pop": 0
@@ -104,20 +96,20 @@
     },
     "tomorrow": {
       "date_label": "11月20日（金）",
-      "weather_text": "晴れ 時々 くもり",
-      "temp_min": 7,
-      "temp_max": 17,
-      "pop_max": 10,
+      "weather_text": "晴れ",
+      "temp_min": null,
+      "temp_max": null,
+      "pop_max": null,
       "umbrella": "傘はほぼ不要です",
       "laundry": "洗濯物がよく乾きそうです",
-      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "weekend": [
       {
         "date_label": "11月21日（土）",
-        "weather_text": "晴れ 時々 くもり",
+        "weather_text": "晴れ",
         "temp_min": 5,
-        "temp_max": 15,
+        "temp_max": 16,
         "pop_max": 10
       },
       {
@@ -125,9 +117,9 @@
         "weather_text": "晴れ 時々 くもり",
         "temp_min": 5,
         "temp_max": 14,
-        "pop_max": 10
+        "pop_max": 20
       }
     ],
-    "weekend_advice": "土曜は最高15℃の予報です。日曜の朝は5℃まで冷え込むので、暖かい服装で。"
+    "weekend_advice": "土曜は最高16℃の予報です。日曜の朝は5℃まで冷え込むので、暖かい服装で。"
   }
 }
