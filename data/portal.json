@@ -24,71 +24,63 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-20 02:57",
+    "fetched_at_jst": "2026-11-20 11:51",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
       {
-        "title": "1歳未満のこどもを育てているかたの国民年金保険料が免除されます。手続きはオンラインが便利!",
-        "summary": "国民年金保険料の育児免除制度は、フリーランスや自営業などの国民年金第1号被保険者の子育てを支える新しい制度です。収入や休業の有無にかかわらず利用でき、免除された期間も保険料を納めたものとして将来の年金額に反映されます。",
-        "url": "https://www.gov-online.go.jp/article/202611/entry-11750.html",
-        "published_jst": "2026-11-18 00:00"
+        "title": "命をつなぐ骨髄バンク あなたのドナー登録を待っている人がいます",
+        "summary": "骨髄バンクは、白血病などの血液の病気の患者さんとドナーをつなぐ公的な仕組みです。ここでは、ドナー登録の方法や、実際に採取される流れなどを分かりやすくご紹介します。ぜひ皆さまのご協力をお願いいたします。",
+        "url": "https://www.gov-online.go.jp/article/201309/entry-10709.html",
+        "published_jst": "2026-11-20 00:00"
       },
       {
-        "title": "付加保険料 月400円で将来の年金額を増やせます",
-        "summary": "付加保険料は、本人の希望により、国民年金保険料に上乗せして納めることができる月額400円の保険料です。納めた月数×200円が、老齢基礎年金に加算されるため、将来受け取る年金額を増やすことができます。",
-        "url": "https://www.gov-online.go.jp/article/202611/entry-11752.html",
-        "published_jst": "2026-11-18 00:00"
+        "title": "海外旅行を安全・健康に楽しむために必要な準備と知識",
+        "summary": "海外旅行を楽しむため、現地でトラブルに巻き込まれたり体調を崩したりしないために気を付けることや、万一、トラブルに巻き込まれてしまったり、急病になったときの対応についてご紹介します。",
+        "url": "https://www.gov-online.go.jp/article/202412/entry-6907.html",
+        "published_jst": "2026-11-20 00:00"
       },
       {
-        "title": "CP部品 防犯性能試験に合格した建物部品",
-        "summary": "CP部品とは、侵入までに5分以上の時間を要するなど、一定の防犯性能があると評価された「防犯建物部品」のことです。",
-        "url": "https://www.gov-online.go.jp/article/202611/entry-11776.html",
-        "published_jst": "2026-11-18 00:00"
+        "title": "トランプ米国大統領との電話会談等についての会見-令和8年11月19日",
+        "summary": "令和８年１１月１９日、高市総理は、総理大臣官邸でアメリカ合衆国のドナルド・トランプ大統領との電話会談等についての会見を行いました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327532.html",
+        "published_jst": "2026-11-19 23:30"
       },
       {
-        "title": "全国地域安全運動/安全安心なまちづくりの日 地域の防犯力を高めよう",
-        "summary": "犯罪の起きにくい安全安心なまちづくりには、「家庭での防犯対策」と「地域のつながり・見守り」が効果的です。",
-        "url": "https://www.gov-online.go.jp/article/201410/entry-9366.html",
-        "published_jst": "2026-11-18 00:00"
+        "title": "第66回商工会全国大会 高市総理ビデオメッセージ-令和8年11月19日",
+        "summary": "令和８年１１月１９日、高市総理は、第６６回商工会全国大会 高市総理ビデオメッセージを発出しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327487.html",
+        "published_jst": "2026-11-19 18:00"
       },
       {
-        "title": "どこからが危険運転? 改正された法律と運転のルール",
-        "summary": "「危険運転致死傷罪」は、危険で悪質な運転で人を死傷させた場合に重く処罰するために設けられた法律で、本年（2026年）7月に改正されました。",
-        "url": "https://www.gov-online.go.jp/article/202611/radio-3833.html",
-        "published_jst": "2026-11-16 11:00"
+        "title": "埼玉県知事、千葉県知事、神奈川県知事による要請-令和8年11月19日",
+        "summary": "",
+        "url": "https://www.gov-online.go.jp/press_conferences/chief_cabinet_secretary/202611/video-327523.html",
+        "published_jst": "2026-11-19 17:10"
       }
     ]
   },
   "outings": {
-    "fetched_at_jst": "2026-11-19 11:56",
+    "fetched_at_jst": "2026-11-20 11:51",
     "items": [],
     "note": "現在掲載中の情報はありません",
     "region": "東京都を中心とした首都圏",
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-20 02:57",
+    "fetched_at_jst": "2026-11-20 11:51",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-19 17:00",
-    "overview": "関東甲信地方は、冬型の気圧配置となっています。 東京地方は、晴れています。 １９日は、冬型の気圧配置となる見込みです。このため、晴れるでしょう。 ２０日は、引き続き、冬型の気圧配置となりますが、気圧の谷や湿った空気の影響を受ける見込みです。このため、晴れるでしょう。伊豆諸島では、雨で雷を伴う所がある見込みです。",
+    "report_datetime": "2026-11-20 11:00",
+    "overview": "日本付近は、冬型の気圧配置となっています。 東京地方は、晴れています。 ２０日は、冬型の気圧配置となる見込みです。このため、晴れるでしょう。伊豆諸島では、雨や雷雨となる所がある見込みです。 ２１日は、引き続き冬型の気圧配置となる見込みです。このため、晴れるでしょう。",
     "today": {
       "date_label": "11月20日（金）",
       "weather_text": "晴れ",
-      "temp_min": 7,
-      "temp_max": 17,
+      "temp_min": 16,
+      "temp_max": 16,
       "pops": [
-        {
-          "label": "0〜6時",
-          "pop": 10
-        },
-        {
-          "label": "6〜12時",
-          "pop": 10
-        },
         {
           "label": "12〜18時",
           "pop": 0
@@ -105,27 +97,27 @@
     "tomorrow": {
       "date_label": "11月21日（土）",
       "weather_text": "晴れ",
-      "temp_min": 5,
-      "temp_max": 16,
-      "pop_max": 10,
+      "temp_min": null,
+      "temp_max": null,
+      "pop_max": null,
       "umbrella": "傘はほぼ不要です",
       "laundry": "洗濯物がよく乾きそうです",
-      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "weekend": [
       {
         "date_label": "11月21日（土）",
         "weather_text": "晴れ",
-        "temp_min": 5,
-        "temp_max": 16,
-        "pop_max": 10
+        "temp_min": null,
+        "temp_max": null,
+        "pop_max": null
       },
       {
         "date_label": "11月22日（日）",
-        "weather_text": "晴れ 時々 くもり",
+        "weather_text": "晴れ",
         "temp_min": 5,
-        "temp_max": 14,
-        "pop_max": 20
+        "temp_max": 15,
+        "pop_max": 10
       }
     ],
     "weekend_advice": "土曜は最高16℃の予報です。日曜の朝は5℃まで冷え込むので、暖かい服装で。"
