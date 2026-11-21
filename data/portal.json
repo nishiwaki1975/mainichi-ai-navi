@@ -24,16 +24,28 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-21 02:31",
+    "fetched_at_jst": "2026-11-21 11:59",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
       {
-        "title": "命をつなぐ骨髄バンク あなたのドナー登録を待っている人がいます",
-        "summary": "骨髄バンクは、白血病などの血液の病気の患者さんとドナーをつなぐ公的な仕組みです。ここでは、ドナー登録の方法や、実際に採取される流れなどを分かりやすくご紹介します。ぜひ皆さまのご協力をお願いいたします。",
-        "url": "https://www.gov-online.go.jp/article/201309/entry-10709.html",
-        "published_jst": "2026-11-20 00:00"
+        "title": "日本ブラジル経済合同委員会メンバーによる表敬-令和8年11月20日",
+        "summary": "令和８年１１月２０日、高市総理は、総理大臣官邸で日本ブラジル経済合同委員会メンバーによる表敬を受け、提言を受け取りました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327576.html",
+        "published_jst": "2026-11-20 15:40"
+      },
+      {
+        "title": "日・ペルー首脳会談-令和8年11月20日",
+        "summary": "令和８年１１月２０日、高市総理は、総理大臣官邸でペルー共和国のケイコ・ソフィア・フジモリ・ヒグチ大統領と首脳会談を行いました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327570.html",
+        "published_jst": "2026-11-20 14:00"
+      },
+      {
+        "title": "日・チリ首脳会談-令和8年11月20日",
+        "summary": "令和８年１１月２０日、高市総理は、総理大臣官邸でチリ共和国のホセ・アントニオ・カスト・リスト大統領と首脳会談を行いました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327590.html",
+        "published_jst": "2026-11-20 14:00"
       },
       {
         "title": "海外旅行を安全・健康に楽しむために必要な準備と知識",
@@ -42,53 +54,33 @@
         "published_jst": "2026-11-20 00:00"
       },
       {
-        "title": "トランプ米国大統領との電話会談等についての会見-令和8年11月19日",
-        "summary": "令和８年１１月１９日、高市総理は、総理大臣官邸でアメリカ合衆国のドナルド・トランプ大統領との電話会談等についての会見を行いました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327532.html",
-        "published_jst": "2026-11-19 23:30"
-      },
-      {
-        "title": "第66回商工会全国大会 高市総理ビデオメッセージ-令和8年11月19日",
-        "summary": "令和８年１１月１９日、高市総理は、第６６回商工会全国大会 高市総理ビデオメッセージを発出しました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327487.html",
-        "published_jst": "2026-11-19 18:00"
-      },
-      {
-        "title": "埼玉県知事、千葉県知事、神奈川県知事による要請-令和8年11月19日",
-        "summary": "",
-        "url": "https://www.gov-online.go.jp/press_conferences/chief_cabinet_secretary/202611/video-327523.html",
-        "published_jst": "2026-11-19 17:10"
+        "title": "命をつなぐ骨髄バンク あなたのドナー登録を待っている人がいます",
+        "summary": "骨髄バンクは、白血病などの血液の病気の患者さんとドナーをつなぐ公的な仕組みです。ここでは、ドナー登録の方法や、実際に採取される流れなどを分かりやすくご紹介します。ぜひ皆さまのご協力をお願いいたします。",
+        "url": "https://www.gov-online.go.jp/article/201309/entry-10709.html",
+        "published_jst": "2026-11-20 00:00"
       }
     ]
   },
   "outings": {
-    "fetched_at_jst": "2026-11-20 11:51",
+    "fetched_at_jst": "2026-11-21 11:59",
     "items": [],
     "note": "現在掲載中の情報はありません",
     "region": "東京都を中心とした首都圏",
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-21 02:31",
+    "fetched_at_jst": "2026-11-21 11:59",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-20 17:00",
-    "overview": "日本付近は、冬型の気圧配置となっています。 東京地方は、晴れています。 ２０日は、冬型の気圧配置となるため、晴れるでしょう。 ２１日は、引き続き冬型の気圧配置となるため、晴れる見込みです。",
+    "report_datetime": "2026-11-21 11:00",
+    "overview": "日本付近は、冬型の気圧配置となっています。 東京地方は、晴れています。 ２１日は、冬型の気圧配置となる見込みです。このため、晴れるでしょう。 ２２日は、引き続き冬型の気圧配置となる見込みです。このため、晴れるでしょう。伊豆諸島では、雨で雷を伴う所がある見込みです。",
     "today": {
       "date_label": "11月21日（土）",
       "weather_text": "晴れ",
-      "temp_min": 6,
+      "temp_min": 15,
       "temp_max": 15,
       "pops": [
-        {
-          "label": "0〜6時",
-          "pop": 0
-        },
-        {
-          "label": "6〜12時",
-          "pop": 0
-        },
         {
           "label": "12〜18時",
           "pop": 0
@@ -105,27 +97,20 @@
     "tomorrow": {
       "date_label": "11月22日（日）",
       "weather_text": "晴れ",
-      "temp_min": 5,
-      "temp_max": 15,
-      "pop_max": 10,
+      "temp_min": null,
+      "temp_max": null,
+      "pop_max": null,
       "umbrella": "傘はほぼ不要です",
       "laundry": "洗濯物がよく乾きそうです",
-      "clothing": "セーターや厚手の上着がおすすめです。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "weekend": [
       {
-        "date_label": "11月21日（土）",
+        "date_label": "11月22日（日）",
         "weather_text": "晴れ",
         "temp_min": null,
         "temp_max": null,
         "pop_max": null
-      },
-      {
-        "date_label": "11月22日（日）",
-        "weather_text": "晴れ",
-        "temp_min": 5,
-        "temp_max": 15,
-        "pop_max": 10
       }
     ],
     "weekend_advice": "土曜は最高16℃の予報です。日曜の朝は5℃まで冷え込むので、暖かい服装で。"
