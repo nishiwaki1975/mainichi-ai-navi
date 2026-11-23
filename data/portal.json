@@ -24,7 +24,7 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-23 01:52",
+    "fetched_at_jst": "2026-11-23 11:19",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
@@ -62,33 +62,25 @@
     ]
   },
   "outings": {
-    "fetched_at_jst": "2026-11-22 10:56",
+    "fetched_at_jst": "2026-11-23 11:19",
     "items": [],
     "note": "現在掲載中の情報はありません",
     "region": "東京都を中心とした首都圏",
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-23 01:52",
+    "fetched_at_jst": "2026-11-23 11:19",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-22 17:00",
-    "overview": "日本付近は高気圧に緩やかに覆われていますが、上空の気圧の谷の影響を受けています。 東京地方は、曇りや晴れとなっています。 ２２日は、高気圧に緩やかに覆われますが、引き続き上空の気圧の谷の影響を受ける所がある見込みです。このため、曇りで夜は晴れるでしょう。 ２３日は、高気圧に覆われる見込みです。このため、晴れるでしょう。",
+    "report_datetime": "2026-11-23 11:00",
+    "overview": "日本付近は高気圧に覆われていますが、伊豆諸島付近は気圧の谷となっています。 東京地方は、晴れています。 ２３日は、高気圧に覆われるため、晴れるでしょう。 ２４日は、日本海からオホーツク海に進む低気圧からのびる寒冷前線が本州付近を通過する見込みです。このため、曇りで昼過ぎから夕方は雨が降るでしょう。伊豆諸島では、雨で雷を伴い激しく降る所がある見込みです。",
     "today": {
       "date_label": "11月23日（月）",
       "weather_text": "晴れ",
-      "temp_min": 5,
+      "temp_min": 15,
       "temp_max": 15,
       "pops": [
-        {
-          "label": "0〜6時",
-          "pop": 0
-        },
-        {
-          "label": "6〜12時",
-          "pop": 0
-        },
         {
           "label": "12〜18時",
           "pop": 0
@@ -104,20 +96,20 @@
     },
     "tomorrow": {
       "date_label": "11月24日（火）",
-      "weather_text": "くもり 後 一時 雨",
-      "temp_min": 8,
-      "temp_max": 18,
-      "pop_max": 50,
-      "umbrella": "傘が必要です",
+      "weather_text": "くもり 昼過ぎ から 夕方 雨",
+      "temp_min": null,
+      "temp_max": null,
+      "pop_max": null,
+      "umbrella": "傘はほぼ不要です",
       "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "weekend": [
       {
         "date_label": "11月28日（土）",
         "weather_text": "くもり 一時 雨",
         "temp_min": 10,
-        "temp_max": 19,
+        "temp_max": 21,
         "pop_max": 50
       },
       {
@@ -128,6 +120,6 @@
         "pop_max": 20
       }
     ],
-    "weekend_advice": "土曜は最高19℃の予報です。日曜の朝は8℃まで冷え込むので、暖かい服装で。"
+    "weekend_advice": "土曜は最高21℃の予報です。日曜の朝は8℃まで冷え込むので、暖かい服装で。"
   }
 }
