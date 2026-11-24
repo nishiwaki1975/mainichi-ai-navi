@@ -24,40 +24,40 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-24 22:11",
+    "fetched_at_jst": "2026-11-25 04:55",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
     "items": [
       {
+        "title": "経済財政諮問会議-令和8年11月24日",
+        "summary": "令和８年１１月２４日、高市総理は、総理大臣官邸で令和８年第１７回経済財政諮問会議を開催しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327650.html",
+        "published_jst": "2026-11-24 17:30"
+      },
+      {
+        "title": "赤根国際刑事裁判所(ICC)所長による表敬-令和8年11月24日",
+        "summary": "令和８年月１１月２４日、高市総理は、総理大臣官邸で赤根国際刑事裁判所（ＩＣＣ）所長による表敬を受けました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327640.html",
+        "published_jst": "2026-11-24 15:30"
+      },
+      {
+        "title": "趙正湜(チョ・ジョンシク)韓国国会議長一行による表敬-令和8年11月24日",
+        "summary": "令和８年月１１月２４日、高市総理は、総理大臣官邸で趙正湜（チョ・ジョンシク）韓国国会議長一行による表敬を受けました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327625.html",
+        "published_jst": "2026-11-24 11:00"
+      },
+      {
+        "title": "感染症危機管理対応訓練-令和8年11月24日",
+        "summary": "令和８年１１月２４日、高市総理は、総理大臣官邸で感染症危機管理対応訓練に参加しました。",
+        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327610.html",
+        "published_jst": "2026-11-24 09:00"
+      },
+      {
         "title": "得意を生かして、みんな笑顔に! 農福連携",
         "summary": "11月29日は「ノウフクの日」。「農福連携」は、農業と福祉が力を合わせることで、農業の働き手を増やし、障害のあるかたの働く機会を広げていく取組です。",
         "url": "https://www.gov-online.go.jp/article/202611/radio-3835.html",
         "published_jst": "2026-11-23 11:00"
-      },
-      {
-        "title": "振り込め詐欺救済法(令和8年(2026年)11月掲載)",
-        "summary": "「振り込め詐欺救済法」に関する新聞突出し広告。振り込め詐欺の被害は、すぐに警察110番と振込先の金融機関に通報を！",
-        "url": "https://www.gov-online.go.jp/newspaper/tsukidashi/202611/newspaper-2109.html",
-        "published_jst": "2026-11-23 07:30"
-      },
-      {
-        "title": "日本ブラジル経済合同委員会メンバーによる表敬-令和8年11月20日",
-        "summary": "令和８年１１月２０日、高市総理は、総理大臣官邸で日本ブラジル経済合同委員会メンバーによる表敬を受け、提言を受け取りました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327576.html",
-        "published_jst": "2026-11-20 15:40"
-      },
-      {
-        "title": "日・ペルー首脳会談-令和8年11月20日",
-        "summary": "令和８年１１月２０日、高市総理は、総理大臣官邸でペルー共和国のケイコ・ソフィア・フジモリ・ヒグチ大統領と首脳会談を行いました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327570.html",
-        "published_jst": "2026-11-20 14:00"
-      },
-      {
-        "title": "日・チリ首脳会談-令和8年11月20日",
-        "summary": "令和８年１１月２０日、高市総理は、総理大臣官邸でチリ共和国のホセ・アントニオ・カスト・リスト大統領と首脳会談を行いました。",
-        "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327590.html",
-        "published_jst": "2026-11-20 14:00"
       }
     ]
   },
@@ -69,36 +69,44 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-24 22:11",
+    "fetched_at_jst": "2026-11-25 04:55",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-24 17:00",
-    "overview": "オホーツク海の低気圧から前線が北日本を通って東日本にのびています。また、前線を伴った別の低気圧が東海道沖を発達しながら東北東へ進んでいます。 東京地方では、雨や曇りとなっています。 ２４日は、東海道沖の低気圧が急速に発達しながら伊豆諸島付近を通って関東の東へ進む見込みです。このため、夕方は雨で夜は次第に晴れるでしょう。伊豆諸島では、雨で雷を伴い激しく降る所がある見込みです。 ２５日は、西高東低の気圧配置となる見込みです。このため、晴れるでしょう。",
+    "report_datetime": "2026-11-25 05:00",
+    "overview": "日本付近は西高東低の気圧配置となっていますが、湿った空気の影響を受けています。 東京地方は、晴れています。 ２５日は、西高東低の気圧配置となる見込みです。このため、晴れるでしょう。 ２６日は、高気圧に覆われますが、湿った空気の影響を受ける見込みです。このため、晴れで夕方から曇りとなるでしょう。",
     "today": {
-      "date_label": "11月24日（火）",
-      "weather_text": "雨 夜 くもり 後 晴れ",
-      "temp_min": null,
-      "temp_max": null,
-      "pops": [
-        {
-          "label": "18〜24時",
-          "pop": 30
-        }
-      ],
-      "umbrella": "折りたたみ傘があると安心です",
-      "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
-    },
-    "tomorrow": {
       "date_label": "11月25日（水）",
       "weather_text": "晴れ",
-      "temp_min": null,
-      "temp_max": null,
-      "pop_max": null,
+      "temp_min": 15,
+      "temp_max": 15,
+      "pops": [
+        {
+          "label": "6〜12時",
+          "pop": 0
+        },
+        {
+          "label": "12〜18時",
+          "pop": 0
+        },
+        {
+          "label": "18〜24時",
+          "pop": 0
+        }
+      ],
       "umbrella": "傘はほぼ不要です",
       "laundry": "洗濯物がよく乾きそうです",
-      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
+      "clothing": "セーターや厚手の上着がおすすめです。"
+    },
+    "tomorrow": {
+      "date_label": "11月26日（木）",
+      "weather_text": "晴れ 夕方 から くもり",
+      "temp_min": 5,
+      "temp_max": 15,
+      "pop_max": 10,
+      "umbrella": "傘はほぼ不要です",
+      "laundry": "洗濯物がよく乾きそうです",
+      "clothing": "セーターや厚手の上着がおすすめです。"
     },
     "weekend": [
       {
