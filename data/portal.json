@@ -24,7 +24,7 @@
   },
   "exported_from": "Muse内試作品「まいにちAIナビ」(ai-3) の保存データを 2026-11-02 に書き出したもの",
   "news": {
-    "fetched_at_jst": "2026-11-27 12:57",
+    "fetched_at_jst": "2026-11-27 20:40",
     "stale": false,
     "source_name": "政府広報オンライン",
     "source_url": "https://www.gov-online.go.jp/rss/index.rdf",
@@ -69,22 +69,18 @@
     "stale": false
   },
   "weather": {
-    "fetched_at_jst": "2026-11-27 12:57",
+    "fetched_at_jst": "2026-11-27 20:39",
     "stale": false,
     "source_name": "気象庁",
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
-    "report_datetime": "2026-11-27 11:00",
-    "overview": "関東甲信地方は、高気圧に緩やかに覆われています。 東京地方は、晴れています。 ２７日は、高気圧に緩やかに覆われますが、気圧の谷や湿った空気の影響を受ける見込みです。このため、晴れで夜は曇りとなり、夜遅くは雨の降る所があるでしょう。 ２８日は、低気圧や前線が関東地方の沿岸や伊豆諸島付近を通り日本の東へ進む見込みです。このため、雨で昼前から曇りとなり、次第に晴れるでしょう。伊豆諸島では、雨で雷を伴い激しく降る所がある見込みです。",
+    "report_datetime": "2026-11-27 17:00",
+    "overview": "関東甲信地方は、高気圧に緩やかに覆われています。 東京地方は、晴れています。 ２７日は、高気圧に緩やかに覆われますが、気圧の谷や湿った空気の影響を受ける見込みです。このため、晴れで夜は曇りとなり、夜遅くは雨の降る所があるでしょう。 ２８日は、低気圧や前線が関東地方の沿岸や伊豆諸島付近を通って日本の東へ進み、次第に西高東低の気圧配置となる見込みです。このため、雨で昼前から曇りとなるでしょう。伊豆諸島では、雨で雷を伴い非常に激しく降る所がある見込みです。",
     "today": {
       "date_label": "11月27日（金）",
       "weather_text": "晴れ 夜 くもり 所により 夜遅く 雨",
-      "temp_min": 17,
-      "temp_max": 17,
+      "temp_min": null,
+      "temp_max": null,
       "pops": [
-        {
-          "label": "12〜18時",
-          "pop": 0
-        },
         {
           "label": "18〜24時",
           "pop": 20
@@ -92,11 +88,11 @@
       ],
       "umbrella": "傘はほぼ不要です",
       "laundry": "外干しはおすすめしません。部屋干しが安心です",
-      "clothing": "長袖シャツに、朝晩用に薄手の羽織りものがあると安心です。"
+      "clothing": "気温に合わせて調整しやすい服装がおすすめです。"
     },
     "tomorrow": {
       "date_label": "11月28日（土）",
-      "weather_text": "雨 昼前 から くもり 後 晴れ",
+      "weather_text": "雨 昼前 から くもり",
       "temp_min": null,
       "temp_max": null,
       "pop_max": null,
@@ -107,7 +103,7 @@
     "weekend": [
       {
         "date_label": "11月28日（土）",
-        "weather_text": "雨 昼前 から くもり 後 晴れ",
+        "weather_text": "雨 昼前 から くもり",
         "temp_min": null,
         "temp_max": null,
         "pop_max": null
